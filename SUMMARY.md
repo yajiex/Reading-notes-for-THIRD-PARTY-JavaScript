@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Chapter 1: Introduction to third-party JavaScript](chapter1.md)
-* Chapter 2: Distributing and loading your application
+* [Chapter 2: Distributing and loading your application](chapter_2_distributing_and_loading_your_applicatio.md)
 * Chapter 3: Rendering HTML and CSS
 * Chapter 4: Communicating with the server
 * Chapter 5: Cross-domain iframe messaging
