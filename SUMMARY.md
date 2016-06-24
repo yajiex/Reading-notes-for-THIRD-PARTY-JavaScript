@@ -10,5 +10,5 @@
 * [Chapter 7: Security](chapter_7_security.md)
 * [Chapter 8: Developing a third-party JavaScript SDK](chapter_8_developing_a_third-party_javascript_sdk.md)
 * [Chapter 9: Performance](chapter_9_performance.md)
-* Chapter 10: Debugging and testing
+* [Chapter 10: Debugging and testing](chapter_10_debugging_and_testing.md)
 
