@@ -6,4 +6,5 @@
 * Chapter 3: Rendering HTML and CSS
 * Chapter 4: Communicating with the server
 * Chapter 5: Cross-domain iframe messaging
+* Chapter 6: Authentication and Sessions
 
