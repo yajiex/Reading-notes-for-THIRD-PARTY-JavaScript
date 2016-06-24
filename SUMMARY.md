@@ -9,6 +9,6 @@
 * [Chapter 6: Authentication and Sessions](chapter_6_authentication_and_sessions.md)
 * [Chapter 7: Security](chapter_7_security.md)
 * [Chapter 8: Developing a third-party JavaScript SDK](chapter_8_developing_a_third-party_javascript_sdk.md)
-* Chapter 9: Performance
+* [Chapter 9: Performance](chapter_9_performance.md)
 * Chapter 10: Debugging and testing
 
