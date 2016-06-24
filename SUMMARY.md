@@ -8,4 +8,5 @@
 * Chapter 5: Cross-domain iframe messaging
 * Chapter 6: Authentication and Sessions
 * Chapter 7: Security
+* Chapter 8: Developing a third-party JavaScript SDK
 
