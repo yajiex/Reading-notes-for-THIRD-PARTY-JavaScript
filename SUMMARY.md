@@ -7,7 +7,7 @@
 * [Chapter 4: Communicating with the server](chapter_4_communicating_with_the_server.md)
 * [Chapter 5: Cross-domain iframe messaging](chapter_5_cross-domain_iframe_messaging.md)
 * Chapter 6: Authentication and Sessions
-* Chapter 7: Security
+* [Chapter 7: Security](chapter_7_security.md)
 * Chapter 8: Developing a third-party JavaScript SDK
 * Chapter 9: Performance
 * Chapter 10: Debugging and testing
