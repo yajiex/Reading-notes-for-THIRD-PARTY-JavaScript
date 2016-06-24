@@ -7,4 +7,5 @@
 * Chapter 4: Communicating with the server
 * Chapter 5: Cross-domain iframe messaging
 * Chapter 6: Authentication and Sessions
+* Chapter 7: Security
 
