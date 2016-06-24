@@ -10,4 +10,5 @@
 * Chapter 7: Security
 * Chapter 8: Developing a third-party JavaScript SDK
 * Chapter 9: Performance
+* Chapter 10: Debugging and testing
 
